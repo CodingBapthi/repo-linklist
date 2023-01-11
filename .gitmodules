@@ -4,3 +4,6 @@
 [submodule "bestWebsitesAProgrammerShouldVisit"]
 	path = bestWebsitesAProgrammerShouldVisit
 	url = git@github.com:sdmg15/Best-websites-a-programmer-should-visit.git
+[submodule "es6Cheatsheet"]
+	path = es6Cheatsheet
+	url = git@github.com:DrkSephy/es6-cheatsheet.git
