@@ -10,3 +10,6 @@
 [submodule "theBookOfSecretKnowledge"]
 	path = theBookOfSecretKnowledge
 	url = git@github.com:Admin-7/Trimstray-The-book-of-secret-knowledge.git
+[submodule "FEInterviewQuestions"]
+	path = FEInterviewQuestions
+	url = git@github.com:h5bp/Front-end-Developer-Interview-Questions.git
