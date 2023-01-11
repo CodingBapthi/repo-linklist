@@ -1,3 +1,6 @@
 [submodule "Front-End-Checklist"]
 	path = Front-End-Checklist
 	url = git@github.com:thedaviddias/Front-End-Checklist.git
+[submodule "bestWebsitesAProgrammerShouldVisit"]
+	path = bestWebsitesAProgrammerShouldVisit
+	url = git@github.com:sdmg15/Best-websites-a-programmer-should-visit.git
